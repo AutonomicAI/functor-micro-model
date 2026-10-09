@@ -1,9 +1,5 @@
 Probability Functor Micro Model
 
-
-A compact reference implementation of a Probability Functor Model used for Functor Model benchmarking and experimentation.
-
-
 This repository contains the micro-model implementation used to evaluate the computational characteristics of function-based learning and inference. It is intended as a reproducible research artifact rather than a production machine-learning framework. Contact jharby@functormodel.ai if you have interests in the production version.
 
 
